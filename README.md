@@ -25,7 +25,7 @@ Grok Bot 的核心单位是 **Bot**：每个 Bot 有自己的名称、职责、�
 
 ### 使用前准备
 
-根据官方入门文档，当前访问方式包括付费 Cursor 个人方案、Cursor Teams，或关联到 Cursor 账户的个人 SuperGrok、SuperGrok Plus、SuperGrok Heavy 订阅。Grok Bot 提供 macOS、Windows、Linux 桌面应用和移动端。可用套餐以[官方计划说明](https://cursor.com/pricing)和账户页面为准。
+根据官方套餐说明，当前访问方式包括付费 Cursor 个人方案或 Cursor Teams；将 SuperGrok、SuperGrok Plus、SuperGrok Heavy 或 X Premium+ 个人订阅关联到 Cursor 账户；或使用拥有自助式 Grok Business 已分配席位的 Grok 账户登录。Grok Bot 提供 macOS、Windows、Linux 桌面应用和移动端。不同方式对应不同使用额度，套餐额度不会叠加；具体以[官方计划与计费说明](https://cursor.com/help/grok-bot/plans)和账户页面为准。
 
 1. 从 [x.ai/bot](https://x.ai/bot) 下载对应系统的 Grok Bot 应用。
 2. 打开应用，用 Cursor 账户登录；如使用 SuperGrok 订阅，按提示关联账户。
